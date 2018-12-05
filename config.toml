@@ -1,0 +1,8 @@
+baseURL = "http://blog.feinstein.io/"
+languageCode = "en-us"
+title = "Spruce's Dev Blog"
+theme = "code-editor"
+
+[params]
+	author = "Spruce Feinstein"
+	locale = "en-US"
